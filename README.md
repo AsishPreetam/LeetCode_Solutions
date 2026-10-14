@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +41,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
