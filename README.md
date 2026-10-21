@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
@@ -62,9 +63,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/AsishPreetam/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
